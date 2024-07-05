@@ -2,7 +2,7 @@
 
 ## Descrizione del Progetto 📋
 
-Questo progetto è uno smart contract scritto in Solidity che gestisce una campagna di raccolta fondi su Ethereum. Permette di raccogliere donazioni, monitorare il progresso verso un obiettivo di raccolta fondi e ritirare i fondi raccolti.
+Questo progetto è uno smart contract scritto in Solidity che gestisce una campagna di raccolta fondi su Ethereum. Permette di raccogliere donazioni, monitorare il progresso verso un obiettivo di raccolta fondi e ritirare i fondi raccolti. La presentazione dettagliata del progetto è disponibile nel file [PDF](https://github.com/rickybada/Fundraising/blob/main/Innovation%20and%20solidarity.pdf) incluso.
 
 ## Caratteristiche Principali 🌟
 
